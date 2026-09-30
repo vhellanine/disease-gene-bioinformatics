@@ -20,6 +20,6 @@ Genomic coordinates: chr13:51,932,669–52,011,450
 DNA strand: Negative (−)
 Approximate gene size: 78,782 bp (~78.8 kb)
 
-# Screenshot 1 – Gene Location
+# Screenshot 1 – ATP7B Gene Location
 
-![ATP7B Gene Location](images/01_gene_location.png)
+![ATP7B Gene Location](Images/01_gene_location.png)
