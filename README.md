@@ -44,4 +44,4 @@ Selected transcript: MANE Select Plus Clinical (NM_000053.4 / ENST00000242839.10
 
 ### Screenshot 2 – ATP7B Gene Structure
 
-![ATP7B Gene Structure](images/02_gene_structure.png)
+![ATP7B Gene Structure](Images/02_gene_structure.png)
