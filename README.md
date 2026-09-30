@@ -65,5 +65,5 @@ Strong conservation suggests that a genomic region has been maintained across sp
 
 ### Screenshot 3 – UCSC Annotation and Conservation Tracks
 
-![ATP7B UCSC Annotation Tracks] (Images/03A_ClinVar Track.png) 
-(Images/03B_Conservation Track.png)
+![ATP7B UCSC Annotation Tracks](images/03_tracks.png)
+
