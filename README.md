@@ -45,3 +45,24 @@ Selected transcript: MANE Select Plus Clinical (NM_000053.4 / ENST00000242839.10
 ### Screenshot 2 – ATP7B Gene Structure
 
 ![ATP7B Gene Structure](Images/02_gene_structure.png)
+
+# 4. UCSC Annotation Tracks
+
+**a. Gene annotation track:**  
+I used the GENCODE V50 and RefSeq Curated gene annotation tracks to examine the ATP7B gene structure.
+
+**b. ClinVar variants:**  
+Yes. Numerous ClinVar-related variant marks were visible within the ATP7B genomic region.
+
+**c. Conservation:**  
+Yes. Some regions showed stronger conservation signals than others.
+
+**d. Conserved regions:**  
+The stronger conservation signals generally correspond with exon regions, although some conserved regions are also present in non-exonic/intronic regions.
+
+**e. Biological importance of conservation:**  
+Strong conservation suggests that a genomic region has been maintained across species because it may perform an important biological function. Changes in highly conserved regions may therefore be more likely to affect gene function.
+
+### Screenshot 3 – UCSC Annotation and Conservation Tracks
+
+![ATP7B UCSC Annotation Tracks](Images/03A_ClinVar Track.png) (Images/03B_Conservation Track.png)
