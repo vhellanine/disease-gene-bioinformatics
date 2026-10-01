@@ -68,3 +68,41 @@ Strong conservation suggests that a genomic region has been maintained across sp
 ![ATP7B UCSC Annotation Tracks](Images/03A_ClinVar_Track.png)
 
 ![ATP7B UCSC Annotation Tracks](Images/03B_Conservation_Track.png)
+
+# 5. Selected ClinVar Variant Record
+
+Gene: ATP7B
+
+Variant/HGVS:
+NM_000053.4(ATP7B):c.51+4A>T
+
+Variation ID:
+312401
+
+VCV accession:
+VCV000312401.71
+
+Chromosome:
+chr13
+
+GRCh38 position:
+52,011,283
+
+Associated condition:
+Wilson disease
+
+Clinical significance:
+Pathogenic/Likely pathogenic
+
+Review status:
+2 stars
+
+Molecular consequence:
+Intron variant
+
+Variation/condition record:
+RCV000324263.41
+
+# Screenshot 4 – Selected ClinVar Variant
+
+![ATP7B ClinVar Variant](images/04_clinvar_variant.png)
