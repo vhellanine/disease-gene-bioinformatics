@@ -130,4 +130,4 @@ Additional evidence such as RNA or functional splicing studies, clinical data, s
 
 ### Screenshot 5 – Selected Variant in UCSC
 
-![ATP7B Selected Variant in UCSC](images/05_variant_in_ucsc.png)
+![ATP7B Selected Variant in UCSC](Images/05_variant_in_UCSC.png)
