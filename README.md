@@ -1,7 +1,9 @@
 # Exploring a Human Disease Gene Using UCSC Genome Browser and NCBI ClinVar
 
 Name: Junavhel Jane B. Olaguir
+
 Assigned Gene: ATP7B
+
 Associated Disease: Wilson disease
 
 Activity: Exploring a Human Disease Gene Using UCSC Genome Browser and NCBI ClinVar
