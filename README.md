@@ -131,3 +131,39 @@ Additional evidence such as RNA or functional splicing studies, clinical data, s
 ### Screenshot 5 – Selected Variant in UCSC
 
 ![ATP7B Selected Variant in UCSC](Images/05_variant_in_UCSC.png)
+
+# 7. Interpretation:
+
+The selected ATP7B variant c.51+4A>T is located in an intronic region near an exon–intron boundary. Its position may allow it to affect RNA splicing and potentially alter ATP7B function, but additional functional and clinical evidence is needed to determine its actual disease-related effect.
+
+# 8. Reflection
+
+### 1. What did UCSC show you about your gene that was not obvious from simply reading about the gene's function?
+
+The UCSC Genome Browser showed the detailed genomic organization of the ATP7B gene, including its exon-intron structure, multiple transcripts, and conserved regions. It also showed that many clinically reported variants are located throughout the ATP7B genomic region.
+
+### 2. Why is knowing the exact genomic location of a disease-associated variant useful?
+
+Knowing the exact genomic location allows the variant to be precisely connected to the ATP7B gene and its annotated genomic features. It also helps determine whether the variant is located in an exon, intron, UTR, splice region, or another functional region.
+
+### 3. What is one limitation of predicting a variant's effect only from its genomic location?
+
+Genomic location alone cannot determine the actual biological effect of a variant. Additional evidence, such as functional studies, clinical observations, population data, and genetic segregation, is needed to better understand its effect on the gene or gene product.
+
+### 4. What was the most interesting feature you observed about your assigned gene?
+
+The most interesting feature I observed was the complex exon-intron structure and the presence of multiple ATP7B transcripts. I also found it interesting that the selected ClinVar variant, c.51+4A>T, is located in an intronic region near a splice boundary and has a reported association with Wilson disease.
+
+# 9. References and Links
+
+1. UCSC Genome Browser. University of California, Santa Cruz. Human Genome Assembly GRCh38/hg38.
+   https://genome.ucsc.edu/
+
+2. NCBI ClinVar. National Center for Biotechnology Information. ClinVar: An archive of interpretations of clinically relevant variants.
+   https://www.ncbi.nlm.nih.gov/clinvar/
+
+3. NCBI ClinVar Help. How to Search ClinVar.
+   https://www.ncbi.nlm.nih.gov/clinvar/docs/help/
+
+4. NCBI ClinVar Variant Record. NM_000053.4(ATP7B):c.51+4A>T. Variation ID 312401; VCV000312401.71.
+   https://www.ncbi.nlm.nih.gov/clinvar/variation/312401/
