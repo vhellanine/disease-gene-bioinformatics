@@ -106,3 +106,28 @@ RCV000324263.41
 # Screenshot 4 – Selected ClinVar Variant
 
 ![ATP7B ClinVar Variant](Images/04_clinvar_variant.png)
+
+# 6. Locating the Variant in UCSC
+
+**Selected variant:** NM_000053.4(ATP7B):c.51+4A>T
+
+**Genomic position:** chr13:52,011,283 (GRCh38)
+
+**a. Variant location:**  
+The selected variant is located within the ATP7B gene region on chromosome 13 at GRCh38 position 52,011,283.
+
+**b. Genomic region:**  
+The variant is an intronic variant located near an exon–intron boundary and is classified by ClinVar as a splice-region variant.
+
+**c. Coding or non-coding:**  
+The variant is located in a non-coding intronic region, although its position near the splice boundary may affect RNA processing.
+
+**d. Possible effect:**  
+The variant may affect ATP7B pre-mRNA splicing because it is located within an intron near an exon–intron boundary. Altered splicing could affect the production or structure of the ATP7B protein.
+
+**e. Additional evidence:**  
+Additional evidence such as RNA or functional splicing studies, clinical data, segregation analysis, population-frequency data, and other genetic evidence would help determine the variant's actual effect on ATP7B and its relationship to Wilson disease.
+
+### Screenshot 5 – Selected Variant in UCSC
+
+![ATP7B Selected Variant in UCSC](images/05_variant_in_ucsc.png)
