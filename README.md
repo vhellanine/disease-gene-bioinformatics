@@ -105,4 +105,4 @@ RCV000324263.41
 
 # Screenshot 4 – Selected ClinVar Variant
 
-![ATP7B ClinVar Variant](images/04_clinvar_variant.png)
+![ATP7B ClinVar Variant](Images/04_clinvar_variant.png)
